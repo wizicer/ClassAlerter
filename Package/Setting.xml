@@ -1,0 +1,20 @@
+<TimePlanTable>
+  <TimePlan TimeFrom="07:20" TimeTo="08:00" Level="中等">自由</TimePlan>
+  <TimePlan TimeFrom="08:20" TimeTo="09:00" Level="高效">英语</TimePlan>
+  <TimePlan TimeFrom="09:10" TimeTo="09:50" Level="中等">英语</TimePlan>
+  <TimePlan TimeFrom="10:00" TimeTo="10:40" Level="离开">英语</TimePlan>
+  <TimePlan TimeFrom="10:50" TimeTo="11:10" Level="高效">数学</TimePlan>
+  <TimePlan TimeFrom="12:00" TimeTo="12:40" Level="高效">政治</TimePlan>
+  <TimePlan TimeFrom="13:30" TimeTo="14:10" Level="离开">数学</TimePlan>
+  <TimePlan TimeFrom="14:20" TimeTo="15:00" Level="中等">数学</TimePlan>
+  <TimePlan TimeFrom="15:10" TimeTo="15:50" Level="高效">数学</TimePlan>
+  <TimePlan TimeFrom="16:00" TimeTo="16:30" Level="中等">数学</TimePlan>
+  <TimePlan TimeFrom="16:40" TimeTo="17:10" Level="离开">数学</TimePlan>
+  <TimePlan TimeFrom="18:00" TimeTo="18:40" Level="离开">数学</TimePlan>
+  <TimePlan TimeFrom="18:50" TimeTo="19:30" Level="离开">政治</TimePlan>
+  <TimePlan TimeFrom="20:20" TimeTo="21:00" Level="离开">政治</TimePlan>
+  <TimePlan TimeFrom="21:10" TimeTo="21:50" Level="中等">数学</TimePlan>
+  <TimePlan TimeFrom="22:00" TimeTo="22:40" Level="">数学</TimePlan>
+  <TimePlan TimeFrom="22:50" TimeTo="23:30" Level="">数学</TimePlan>
+  <TimePlan TimeFrom="23:40" TimeTo="00:20" Level="">数学</TimePlan>
+</TimePlanTable>
